@@ -82,3 +82,9 @@
 	font-weight: bold;
 }
 .Estilo34 {color: #FFFF00; font-family: "Monotype Corsiva";}
+
+.contenedor {
+	width: 100%;
+ 	margin: 0 auto;
+ 	overflow: hidden;
+}
