@@ -1,0 +1,84 @@
+.navbar {
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
+
+.navbar .nav-item .nav-link{
+    color: #fff;
+}
+   
+.main-header{
+   
+    background: url(../img/16.gif);
+    
+    
+}
+
+.background-overlay{
+    background: rgba(48, 51, 107, .2);
+    top: 0;
+    left:0;
+    width: 100%;
+    height: 100%;
+}   
+
+.form-control, .btn{
+    border-radius: 0;
+}
+
+.team, footer{
+    background: rgba(48, 51, 107,1.5);
+}
+
+.Estilo5 {
+	font-family: "Edwardian Script ITC";
+	font-size: 60px;
+	color: #FFFF66;
+}
+.Estilo6 {
+	font-family: "Monotype Corsiva";
+	font-size: 30px;
+	color: #990066;
+	font-weight: bold;
+}
+.Estilo7 {
+    font-family: "Monotype Corsiva";
+    font-size: 20px;
+}
+.Estilo9 {
+	font-size: 54px;
+	font-family: "Edwardian Script ITC";
+	color: #FFFF66;
+}
+.Estilo10 {color: #990099; }
+.Estilo12 {
+	font-size: 14px;
+	font-family: "Edwardian Script ITC";
+	color: #FFFF66;
+}
+.Estilo13 {
+    font-family: "Monotype Corsiva";
+    font-size: 24px;
+}
+.Estilo14 {
+	font-family: "Edwardian Script ITC";
+	font-size: 24px;
+	font-weight: bold;
+}
+.Estilo23 {
+	color: #FFFFFF;
+	font-family: "Monotype Corsiva";
+}
+.Estilo24 {font-family: "Edwardian Script ITC"; font-size: 36px; color: #FF0000; font-weight: bold; }
+.Estilo25 {font-size: 32px; font-family: "Edwardian Script ITC"; color: #FF0000; }
+.Estilo26 {font-size: 16px}
+.Estilo28 {font-family: "Edwardian Script ITC"; font-weight: bold; font-size: 48px; }
+.Estilo29 {font-size: 48px}
+.Estilo30 {color: #FFFF66; }
+.Estilo32 {color: #FFFF00}
+.Estilo33 {
+	font-family: "Monotype Corsiva";
+	color: #FFFF00;
+	font-weight: bold;
+}
+.Estilo34 {color: #FFFF00; font-family: "Monotype Corsiva";}
